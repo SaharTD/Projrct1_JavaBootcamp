@@ -96,7 +96,7 @@ public class Main {
 
 
                     } else  System.out.println(" Its a tie ! " +
-                            "\n The scores score :" +"\n"+" X = " +Xwin_count+ "\n"+ " O ="+Owin_count);
+                            "\n The scores  :" +"\n"+" X = " +Xwin_count+ "\n"+ " O ="+Owin_count);
 
 
 // the if below check is there's another round ( i < ) to rest between the 2 rounds , for the final round it won't be needed to reset
